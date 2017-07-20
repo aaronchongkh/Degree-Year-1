@@ -1,0 +1,96 @@
+173269
+Honda Odyssey 2.4L EXV
+Crystal Black Pearl
+2356
+247107
+248288
+255500
+
+533332
+Honda Accord 2.4 VTi-L
+White Orchid Pearl
+2356
+166681
+167820
+172800
+
+123456
+Honda Accord 2.0 VTi-L
+Lunar Silver Metallic
+1997
+148570
+149352
+153800
+
+737373
+Honda Accord 2.0 VTi
+Modern Steel Metallic
+1997
+139818
+140600
+144800
+
+255136
+Honda Civic 1.5 TC-P
+Dark Ruby Red Pearl
+1498
+131540
+131883
+135800
+
+265493
+Honda HR-V 1.8L V
+Taffeta White
+1799
+117923
+118606
+122200
+
+123333
+Honda Civic 1.8 S
+Crystal Black Pearl
+1799
+109744
+110427
+113800
+
+523164
+Honda HR-V 1.8L S
+Ruse Black Metallic
+1799
+98447.1
+99129.7
+102200
+
+421362
+Honda City 1.5L V
+Modern Steel Metallic
+1497
+88897.9
+89240.9
+92000
+
+294632
+Honda Jazz 1.5L V
+Tinted Silver Metallic
+1497
+86380.6
+86723.6
+89400
+
+483847
+Honda City 1.5L E
+Taffeta White
+1497
+81690.8
+82033.8
+84600
+
+192365
+Honda Jazz 1.5L S
+Carnival Red
+1497
+71194
+71537
+73800
+
